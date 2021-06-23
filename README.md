@@ -14,5 +14,5 @@ This repo collects some notes I found useful for research beginners.
 10. [分享远程办公期间提高工作效率、培养良好习惯和生活仪式感/意义感的几个方法](https://www.1point3acres.com/bbs/thread-664370-1-1.html)
 11. [褚则伟:我从导师身上学到的几件事](https://zhuanlan.zhihu.com/p/242592577)
 12. [张焕晨:读博，你真的想好了吗？](https://zhuanlan.zhihu.com/p/372884253)
-
+13. [Bowen Xiao:非机器学习方向的 CS PhD 有必要读么？](https://www.zhihu.com/question/307580157/answer/1783828492)
 
