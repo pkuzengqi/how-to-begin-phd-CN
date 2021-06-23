@@ -13,6 +13,6 @@ This repo collects some notes I found useful for research beginners.
 9. [守住发际线：南大蒋炎岩谈读博那些事儿](https://mp.weixin.qq.com/s/S2JqnglvLP5-dpPmU-BNZA)
 10. [分享远程办公期间提高工作效率、培养良好习惯和生活仪式感/意义感的几个方法](https://www.1point3acres.com/bbs/thread-664370-1-1.html)
 11. [褚则伟:我从导师身上学到的几件事](https://zhuanlan.zhihu.com/p/242592577)
-
+12. [张焕晨:读博，你真的想好了吗？](https://zhuanlan.zhihu.com/p/372884253)
 
 
