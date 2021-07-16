@@ -15,4 +15,5 @@ This repo collects some notes I found useful for research beginners.
 11. [褚则伟:我从导师身上学到的几件事](https://zhuanlan.zhihu.com/p/242592577)
 12. [张焕晨:读博，你真的想好了吗？](https://zhuanlan.zhihu.com/p/372884253)
 13. [Bowen Xiao:非机器学习方向的 CS PhD 有必要读么？](https://www.zhihu.com/question/307580157/answer/1783828492)
-
+14. [正确的读博动机是什么？具备什么样的能力才应该读博？](https://www.zhihu.com/question/317097438)
+15. [王鸿伟:读博，我想好了！](https://zhuanlan.zhihu.com/p/383411366)
