@@ -20,6 +20,7 @@ This repo collects some ZHIHU notes I found useful for research beginners.
 14. [博士新生应该懂得哪些道理？](https://www.zhihu.com/question/338503201/answer/840618203)
 15. [没有导师的指导，研究生如何阅读文献、提出创见、写论文？](https://www.zhihu.com/question/23647187)
 16. [被「连环拒」是种怎样的体验？](https://www.zhihu.com/question/26796160)
+17. [Doing the PhD：可观这14个主题](https://zhuanlan.zhihu.com/p/165296685)
 
 ## Application
 1. [如何看待 AI 方向 PhD 申请竞争过于激烈的现象？](https://www.zhihu.com/question/269262542)
