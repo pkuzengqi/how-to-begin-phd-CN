@@ -21,6 +21,8 @@ This repo collects some ZHIHU notes I found useful for research beginners.
 15. [没有导师的指导，研究生如何阅读文献、提出创见、写论文？](https://www.zhihu.com/question/23647187)
 16. [被「连环拒」是种怎样的体验？](https://www.zhihu.com/question/26796160)
 17. [Doing the PhD：可观这14个主题](https://zhuanlan.zhihu.com/p/165296685)
+18. [微调:对PhD一年级新生有什么建议？](https://www.zhihu.com/question/32210068/answer/2364167742)
+19. [陈海波:一名系统研究者的攀登之路](https://zhaoxiahust.github.io/blog/%E4%B8%80%E5%90%8D%E7%B3%BB%E7%BB%9F%E7%A0%94%E7%A9%B6%E8%80%85%E7%9A%84%E6%94%80%E7%99%BB%E4%B9%8B%E8%B7%AF.pdf)
 
 ## Application
 1. [如何看待 AI 方向 PhD 申请竞争过于激烈的现象？](https://www.zhihu.com/question/269262542)
