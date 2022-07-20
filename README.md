@@ -22,11 +22,17 @@ This repo collects some ZHIHU notes I found useful for research beginners.
 16. [被「连环拒」是种怎样的体验？](https://www.zhihu.com/question/26796160)
 17. [Doing the PhD：可观这14个主题](https://zhuanlan.zhihu.com/p/165296685)
 
-## Application
+## Coding
+1. [labml.ai Annotated PyTorch Paper Implementations](https://nn.labml.ai/)
+2. [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
+
+
+## PHD Application
 1. [如何看待 AI 方向 PhD 申请竞争过于激烈的现象？](https://www.zhihu.com/question/269262542)
 
 ## Writting
 1. [刘知远：如何写一篇合格的NLP论文](https://zhuanlan.zhihu.com/p/58752815)
+
 
 ## Reading
 1. [博士应该采取什么策略读文献？](https://www.zhihu.com/question/37781628/answer/73633805)
